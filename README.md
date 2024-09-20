@@ -1,0 +1,2 @@
+Quiero construir un auto el cual lo voy a utilizar de diferentes maneras durante la semana. El lunes quiero usarlo para ir al trabajo, el martes quiero usarlo para correr en un circuito, el miércoles y jueves quiero usarlo para hacer offroad y el viernes quisiera usarlo para ser un agente secreto; para poder ser un agente secreto el auto debería poder activar un camuflaje y poder utilizar armas de fuego preinstaladas en el vehiculo
+
