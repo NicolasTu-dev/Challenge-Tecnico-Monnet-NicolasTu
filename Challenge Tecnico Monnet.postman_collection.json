@@ -1,0 +1,166 @@
+{
+	"info": {
+		"_postman_id": "7f9a8149-78bc-4e98-be48-5cc4901c96a2",
+		"name": "Challenge Tecnico Monnet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "34172464"
+	},
+	"item": [
+		{
+			"name": "Usar Auto Dia: Lunes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8231/auto/usar?dia=lunes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8231",
+					"path": [
+						"auto",
+						"usar"
+					],
+					"query": [
+						{
+							"key": "dia",
+							"value": "lunes"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Usar Auto Dia: Martes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8231/auto/usar?dia=lunes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8231",
+					"path": [
+						"auto",
+						"usar"
+					],
+					"query": [
+						{
+							"key": "dia",
+							"value": "lunes"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Usar Auto Dia: Miercoles",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8231/auto/usar?dia=lunes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8231",
+					"path": [
+						"auto",
+						"usar"
+					],
+					"query": [
+						{
+							"key": "dia",
+							"value": "lunes"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Usar Auto Dia: Jueves",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8231/auto/usar?dia=lunes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8231",
+					"path": [
+						"auto",
+						"usar"
+					],
+					"query": [
+						{
+							"key": "dia",
+							"value": "lunes"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Usar Auto Dia: Viernes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8231/auto/usar?dia=lunes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8231",
+					"path": [
+						"auto",
+						"usar"
+					],
+					"query": [
+						{
+							"key": "dia",
+							"value": "lunes"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Traer Todos Los Autos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8231/auto/usar?dia=lunes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8231",
+					"path": [
+						"auto",
+						"usar"
+					],
+					"query": [
+						{
+							"key": "dia",
+							"value": "lunes"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
